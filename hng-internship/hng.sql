@@ -37,10 +37,10 @@ CREATE TABLE `test` (
 --
 
 INSERT INTO `test` (`id`, `firstname`, `dateadded`) VALUES
-(1, 'Barry', '2017-08-18'),
-(2, 'Garry', '2017-08-18'),
-(3, 'Harry', '2017-08-18'),
-(4, 'Larry', '2017-08-18');
+(1, 'Beans', '2017-08-18'),
+(2, 'Plantian', '2017-08-18'),
+(3, 'oranges', '2017-08-18'),
+(4, 'pineapples', '2017-08-18');
 
 --
 -- Indexes for dumped tables
